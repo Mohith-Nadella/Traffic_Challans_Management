@@ -10,5 +10,6 @@ A C++ program to manage traffic challans using object-oriented programming and f
 
 ## Technologies
 - C++
+- Object-Oriented Programming
 - File I/O
 - STL (`map`, `multiset`)
